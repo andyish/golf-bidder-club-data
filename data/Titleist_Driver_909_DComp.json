@@ -1,0 +1,50 @@
+[
+    {
+        "url": "https://www.golfbidder.co.uk/product/899463/Titleist_909_DComp.html",
+        "Reference": "1710830",
+        "Model Year": "2010",
+        "Golfer": "Mens Right Hand",
+        "Brand": "Titleist",
+        "Club": "Driver",
+        "Loft": "10.5",
+        "Shaft": "Titleist voodoo",
+        "Shaft Material": "Graphite",
+        "Flex": "Stiff",
+        "Grip": "Golf Pride DD2 yellow",
+        "Head Condition:": "6 - FairClose",
+        "Shaft Condition:": "6 - FairClose",
+        "Grip Condition:": "6 - FairClose"
+    },
+    {
+        "url": "https://www.golfbidder.co.uk/product/892723/Titleist_909_DComp.html",
+        "Reference": "1704479",
+        "Model Year": "2010",
+        "Golfer": "Mens Right Hand",
+        "Brand": "Titleist",
+        "Club": "Driver",
+        "Loft": "9.5",
+        "Shaft": "Titleist Xcon 5",
+        "Shaft Material": "Graphite",
+        "Flex": "Stiff",
+        "Grip": "Black widow",
+        "Head Condition:": "6 - FairClose",
+        "Shaft Condition:": "7 - GoodClose",
+        "Grip Condition:": "10 - NewClose"
+    },
+    {
+        "url": "https://www.golfbidder.co.uk/product/875392/Titleist_909_DComp.html",
+        "Reference": "1671188",
+        "Model Year": "2010",
+        "Golfer": "Mens Left Hand",
+        "Brand": "Titleist",
+        "Club": "Driver",
+        "Loft": "9.5",
+        "Shaft": "Matrix Ozik Xcon 6",
+        "Shaft Material": "Graphite",
+        "Flex": "Stiff",
+        "Grip": "Black widow",
+        "Head Condition:": "6 - FairClose",
+        "Shaft Condition:": "6 - FairClose",
+        "Grip Condition:": "9 - ExcellentClose"
+    }
+]
